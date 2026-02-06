@@ -2,13 +2,15 @@
 
 we cannot perform each and every test that comes to our mind because of the time and the budget constraints 
 
-so we use software testing techniques
+so we use software testing techniques - it's a technique of scientificly pickup the required test cases which are most likely to find the bug since we can't go with exhaustive technique
 
 ![img.png](Testing%20Levels/Images/t1.png)
 
 
 # Equivalence Partitioning
-based upon grouping the test cases and testing a single value from that group and then we assume the other test cases works too
+You put the test cases into multiple equal partitions - near the min range, mid, and the upper limit, or less than 10, near 10, mid, and more than 10
+
+based upon grouping the test cases and testing a single value from that group, and then we assume the other test cases works too
 ![img.png](Testing%20Levels/Images/t2.png)
 
 
@@ -42,7 +44,7 @@ example
 ![img.png](Testing%20Levels/Images/t8.png)
 
 # Smoke Testing
-Quick test to check the basic features of the application to ensure the application is working fine with the basic testing and we can proceed with other levels of testing
+Quick test to check the basic features of the application to ensure the application is working fine with the basic testing, and we can proceed with other levels of testing
 
 
 ![img.png](Testing%20Levels/Images/t9.png)
