@@ -43,7 +43,7 @@ we can create different test cases for different user login but if we can create
 
 ### DataProviders
 
-![img.png](img.png)
+![img.png](Images/t7.png)
 
 ### Groups
 
